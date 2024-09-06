@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Programming
 - 💞️ I’m looking to collaborate on ...Developers
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: HE/ HIm
 - ⚡ Fun fact: ...My emotions was not control when program is'nt runing
 
 <!---
