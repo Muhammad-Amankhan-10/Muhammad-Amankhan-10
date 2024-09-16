@@ -1,5 +1,6 @@
 -              👋
--         <h1> Hi, I’m Muhammad Amankhan</h1>
+-  Hi, I’m Muhammad Amankhan
+- 
 - 👀 I’m interested in ...Web-development 
 - 🌱 I’m currently learning ...Programming
 - 📫 How to reach me ...twiter: @Aman_khan_10
