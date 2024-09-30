@@ -1,8 +1,8 @@
--              👋  Hi, I’m Muhammad Amankhan
+-                                    👋  Hi, I’m Muhammad Amankhan
 -  
 - 
 - 👀 I’m interested in ...Web-development 
-- 🌱 I’m currently learning ...Programming
+- 🌱 I’m currently learning .. Front-End Development
 - 📫 How to reach me ...twiter: @Aman_khan_10
 - 😄 Pronouns: HE/ HIm
 
