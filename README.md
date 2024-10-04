@@ -1,5 +1,5 @@
 # 💫 Hi there, Muhammad Aman Khan:
-A passionate beginer Front-end developer For Pakistan
+A passionate beginner Front-end developer For Pakistan
 
 
 ## 🌐 Socials:
