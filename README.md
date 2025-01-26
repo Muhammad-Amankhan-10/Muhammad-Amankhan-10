@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **muhammadamankhan182@gmail.com**
 
-- 📄 Know about my experiences [amankhanportfolio.netlify.app](amankhanportfolio.netlify.app)
 
 
 
