@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript , Typescript , React.js , MongoDB**
 
-- 👨‍💻 All of my projects are available at [amankhanportfolio.netlify.app](amankhanportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [amankhanportfolio.netlify.app](-------)
 
 - 💬 Ask me about **CSS , Responsive Layouts , Database**
 
