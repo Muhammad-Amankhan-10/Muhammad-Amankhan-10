@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript , Typescript , React.js , MongoDB**
 
-- 👨‍💻 All of my projects are available at [](-------)
+- 👨‍💻 All of my projects are available at [https://muhammad-amankhan-10.github.io/My-Portfolio-/](https://muhammad-amankhan-10.github.io/My-Portfolio-/)
 
 - 💬 Ask me about **CSS , Responsive Layouts , Database**
 
